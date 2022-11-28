@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/benditodiablo/static/css/main.c498e0ff.css",
-    "main.js": "/benditodiablo/static/js/main.f862cc51.js",
+    "main.css": "/benditodiablo/static/css/main.537f6bc0.css",
+    "main.js": "/benditodiablo/static/js/main.b559a811.js",
+    "static/media/icono.ico": "/benditodiablo/static/media/icono.cc63db02221f2fb9437a.ico",
     "index.html": "/benditodiablo/index.html",
-    "main.c498e0ff.css.map": "/benditodiablo/static/css/main.c498e0ff.css.map",
-    "main.f862cc51.js.map": "/benditodiablo/static/js/main.f862cc51.js.map"
+    "main.537f6bc0.css.map": "/benditodiablo/static/css/main.537f6bc0.css.map",
+    "main.b559a811.js.map": "/benditodiablo/static/js/main.b559a811.js.map"
   },
   "entrypoints": [
-    "static/css/main.c498e0ff.css",
-    "static/js/main.f862cc51.js"
+    "static/css/main.537f6bc0.css",
+    "static/js/main.b559a811.js"
   ]
 }
